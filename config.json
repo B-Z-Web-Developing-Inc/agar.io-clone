@@ -1,6 +1,6 @@
 {
-    "host": "0.0.0.0",
-    "port": 3000,
+    "host": "98.22.8.148",
+    "port": 8080,
     "logpath": "logger.php",
     "foodMass": 1,
     "fireFood": 20,
@@ -34,10 +34,10 @@
     "mergeTimer": 15,
     "sqlinfo":{
       "connectionLimit": 100,
-      "host": "DEFAULT",
-      "user": "root",
-      "password": "DEFAULT",
-      "database": "DEFAULT",
+      "host": "https://sql5.freesqldatabase.com",
+      "user": "sql5451366",
+      "password": "rB3WGQarcC",
+      "database": "sql5451366",
       "debug": false
     }
 }
