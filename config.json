@@ -34,7 +34,7 @@
     "mergeTimer": 15,
     "sqlinfo":{
       "connectionLimit": 100,
-      "host": "https://sql5.freesqldatabase.com",
+      "host": "sql5.freesqldatabase.com",
       "user": "sql5451366",
       "password": "rB3WGQarcC",
       "database": "sql5451366",
